@@ -28,7 +28,7 @@ It includes:
 
 Below is the entity‑relationship diagram (ERD) used to design the system:
 
-https://www.figma.com/board/al1vIYp8ste1e5eMMcaVnE/Hospital-ER-Diagram-Detailed?node-id=0-1&t=ohTrDUKDKabLaosu-1
+https://www.figma.com/board/iDRGm4gmSjkgnHWJQwSiGQ/Hospital-ER-Diagram---Complete-Connections?node-id=0-1&t=aRflXBxyVsxnHrto-1
 
 ---
 
